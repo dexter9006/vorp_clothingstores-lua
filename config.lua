@@ -41,7 +41,7 @@ Config = {
   -- Store locations
   Stores = {
     {
-      name = "Clothing Store", -- Saint Denis
+      name = "Magasin de Vêtements", -- Saint Denis
       BlipIcon = 1195729388,
       EnterStore = { 2554.63, -1169.08, 53.68, 2.0 },
       ExitWardrobe =  { 2552.91, -1161.32, 52.68, 89.54 },
@@ -56,7 +56,7 @@ Config = {
       NPCStore =  { 2554.6, -1166.83, 52.7, 180.95 }
     },
     {
-      name = "Clothing Store", -- Blackwater
+      name = "Magasin de Vêtements", -- Blackwater
       BlipIcon = 1195729388,
       EnterStore =  { -761.67, -1291.53, 43.86, 2.0 },
       ExitWardrobe =  { -764.82, -1291.39, 42.83, 271.27 },
@@ -71,7 +71,7 @@ Config = {
       NPCStore =  { -761.75, -1293.92, 42.84, 357.16 }
     },
     {
-      name = "Clothing Store", -- Valentine
+      name = "Magasin de Vêtements", -- Valentine
       BlipIcon = 1195729388,
       EnterStore =  { -325.99, 774.77, 117.46, 2.0 },
       ExitWardrobe =  { -322.57, 771.95, 116.44, 23.65 },
@@ -86,7 +86,7 @@ Config = {
       NPCStore =  { -325.67, 772.63, 116.44, 11.3 }
     },
     {
-      name = "Clothing Store", -- Rhodes
+      name = "Magasin de Vêtements", -- Rhodes
       BlipIcon = 1195729388,
       EnterStore =  { 1326.11, -1288.78, 77.02, 2.0 },
       ExitWardrobe =  { 1323.88, -1292.37, 76.03, 267.47 },
@@ -101,7 +101,7 @@ Config = {
       NPCStore =  { 1326.11, -1288.78, 76.02, 194.36 }
     },
     {
-      name = "Clothing Store", -- Tumbleweed
+      name = "Magasin de Vêtements", -- Tumbleweed
       BlipIcon = 1195729388,
       EnterStore =  { -5483.86, -2932.48, -0.4, 2.0 },
       ExitWardrobe =  { -5482.74, -2935.01, -1.4, 80.17 },
@@ -116,7 +116,7 @@ Config = {
       NPCStore =  { -5483.86, -2932.48, -1.4, 137.06 }
     },
     {
-      name = "Clothing Store", -- Armadillo
+      name = "Magasin de Vêtements", -- Armadillo
       BlipIcon = 1195729388,
       EnterStore =  { -3681.88, -2627.49, -13.43, 2.0 },
       ExitWardrobe =  { -3686.44, -2627.48, -14.43, 302.64 },
