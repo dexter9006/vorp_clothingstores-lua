@@ -1,5 +1,5 @@
 Config = {
-  defaultlang = "En", -- Set your language, verify that it exists in vorp_clothingstore/languages/
+  defaultlang = "fr", -- Set your language, verify that it exists in vorp_clothingstore/languages/
   debugMode = false,   -- LEAVE SET TO FALSE
 
   Cost = {	-- Category Prices (Each item equiped adds to the total cost)
@@ -131,5 +131,4 @@ Config = {
       NPCStore =  { -3681.88, -2627.49, -14.43, 5.85 }
     }
   }
-
 }
